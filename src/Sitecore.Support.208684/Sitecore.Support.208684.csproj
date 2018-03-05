@@ -60,11 +60,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.208684.config" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
     <None Include="web.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="App_Config\Include\zzz\Sitecore.Support.208684.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
